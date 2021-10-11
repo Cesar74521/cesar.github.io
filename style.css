@@ -29,6 +29,10 @@ h3 {
     font-size: 24px;
 }
 
+p {
+    font-size: 18px;
+}
+
 header {
     background-color: #11730E;
     height: 225px;
@@ -129,7 +133,6 @@ footer {
 }
 
 footer p {
-    font-size: 18px;
     font-weight: bold;
     letter-spacing: 1px;
     margin-top: 10px;
