@@ -135,6 +135,7 @@ footer {
 footer p {
     font-weight: bold;
     letter-spacing: 1px;
+    justify-content: justify;
     margin-top: 10px;
     margin-bottom: 5px;
 }
